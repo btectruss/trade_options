@@ -1,0 +1,3 @@
+name: main
+# To trigger on every push on any branch
+on: push
