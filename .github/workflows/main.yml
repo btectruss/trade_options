@@ -12,16 +12,5 @@ jobs:
       run: cat /etc/os-release
 
       
-      
-    
-      
-      
-      run: 
-      
-      
-    
-    
-
-    
     
 
